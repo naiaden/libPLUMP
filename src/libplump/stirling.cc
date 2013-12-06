@@ -22,10 +22,10 @@
  * of type (-1,-d,0). 
  *
  */
-#include "libplump/stirling.h"
 #include <cmath>
 #include <sstream>
 #include <gsl/gsl_sf_gamma.h>
+#include "libplump/stirling.h"
 
 namespace gatsby { namespace libplump {
 
